@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mb_p5kpl_am",
+    "category": "MOTHERBOARD",
+    "brand": "ASUS",
+    "modelOrSpecs": "P5KPL-AM SE (G31)",
+    "priceUsd": 45.0,
+    "tdpWatts": 0,
+    "socket": "LGA775",
+    "ramType": "DDR2",
+    "details": "2007 LGA775 soket, Intel G31 yonga seti, Core 2 Duo ve Quad desteği."
+  },
+  {
+    "id": "mb_p5q",
+    "category": "MOTHERBOARD",
+    "brand": "ASUS",
+    "modelOrSpecs": "P5Q PRO (P45)",
+    "priceUsd": 120.0,
+    "tdpWatts": 0,
+    "socket": "LGA775",
+    "ramType": "DDR2",
+    "details": "2008 P45 efsane overclock anakartı, DDR2, yüksek kaliteli faz beslemesi."
+  },
+  {
+    "id": "mb_ga_h55m",
+    "category": "MOTHERBOARD",
+    "brand": "Gigabyte",
+    "modelOrSpecs": "GA-H55M-UD2H",
+    "priceUsd": 85.0,
+    "tdpWatts": 0,
+    "socket": "LGA1156",
+    "ramType": "DDR3",
+    "details": "2010 1. nesil Core i3/i5/i7 destekli DDR3 anakart."
+  },
+  {
+    "id": "mb_p8b75_m",
+    "category": "MOTHERBOARD",
+    "brand": "ASUS",
+    "modelOrSpecs": "P8B75-M LX",
+    "priceUsd": 75.0,
+    "tdpWatts": 0,
+    "socket": "LGA1155",
+    "ramType": "DDR3",
+    "details": "2012 Sandy ve Ivy Bridge (i5-2500K / i7-3770K) için çok kararlı SATA3+USB3 anakart."
+  },
+  {
+    "id": "mb_m5a97",
+    "category": "MOTHERBOARD",
+    "brand": "ASUS",
+    "modelOrSpecs": "M5A97 R2.0 (970)",
+    "priceUsd": 95.0,
+    "tdpWatts": 0,
+    "socket": "AM3+",
+    "ramType": "DDR3",
+    "details": "2012 AMD FX-6300 ve FX-8350 için efsanevi soğutmalı 970 yaneset anakartı."
+  },
+  {
+    "id": "mb_b85m_g",
+    "category": "MOTHERBOARD",
+    "brand": "ASUS",
+    "modelOrSpecs": "B85M-G",
+    "priceUsd": 80.0,
+    "tdpWatts": 0,
+    "socket": "LGA1150",
+    "ramType": "DDR3",
+    "details": "2014 Haswell mimarili (i7-4790K / i5-4460) popüler mATX anakart."
+  },
+  {
+    "id": "mb_z97_gaming",
+    "category": "MOTHERBOARD",
+    "brand": "MSI",
+    "modelOrSpecs": "Z97 GAMING 5",
+    "priceUsd": 150.0,
+    "tdpWatts": 0,
+    "socket": "LGA1150",
+    "ramType": "DDR3",
+    "details": "2014 Devil's Canyon için kırmızı siyah canavar hız aşırtma anakartı."
+  },
+  {
+    "id": "mb_h110m_s2",
+    "category": "MOTHERBOARD",
+    "brand": "Gigabyte",
+    "modelOrSpecs": "H110M-S2",
+    "priceUsd": 60.0,
+    "tdpWatts": 0,
+    "socket": "LGA1151",
+    "ramType": "DDR4",
+    "details": "2016 6. ve 7. nesil Intel DDR4 başlangıç seviyesi en çok satılan anakart."
+  },
+  {
+    "id": "mb_z270_tomahawk",
+    "category": "MOTHERBOARD",
+    "brand": "MSI",
+    "modelOrSpecs": "Z270 TOMAHAWK",
+    "priceUsd": 140.0,
+    "tdpWatts": 0,
+    "socket": "LGA1151",
+    "ramType": "DDR4",
+    "details": "2017 i7-7700K için askeri zırhlı harika overclock anakartı."
+  },
+  {
+    "id": "mb_b450m_k",
+    "category": "MOTHERBOARD",
+    "brand": "ASUS",
+    "modelOrSpecs": "PRIME B450M-K II",
+    "priceUsd": 75.0,
+    "tdpWatts": 0,
+    "socket": "AM4",
+    "ramType": "DDR4",
+    "details": "2018-2024 BIOS flashback tuşuna sahip, Ryzen 5600/3600 bütçe dostu efsanesi."
+  },
+  {
+    "id": "mb_b550_tomahawk",
+    "category": "MOTHERBOARD",
+    "brand": "MSI",
+    "modelOrSpecs": "MAG B550 TOMAHAWK",
+    "priceUsd": 179.0,
+    "tdpWatts": 0,
+    "socket": "AM4",
+    "ramType": "DDR4",
+    "details": "2020 PCIe Gen4 destekli, Ryzen 7 5800X3D için en iyi VRM termal canavarı."
+  },
+  {
+    "id": "mb_b660m_ds3h",
+    "category": "MOTHERBOARD",
+    "brand": "Gigabyte",
+    "modelOrSpecs": "B660M DS3H AX DDR4",
+    "priceUsd": 120.0,
+    "tdpWatts": 0,
+    "socket": "LGA1700",
+    "ramType": "DDR4",
+    "details": "2022 LGA1700 12./13. nesil, Wi-Fi ve Bluetooth entegreli F/P lideri."
+  },
+  {
+    "id": "mb_pro_b650m",
+    "category": "MOTHERBOARD",
+    "brand": "MSI",
+    "modelOrSpecs": "PRO B650M-A WIFI",
+    "priceUsd": 165.0,
+    "tdpWatts": 0,
+    "socket": "AM5",
+    "ramType": "DDR5",
+    "details": "2023 AM5 Ryzen 7500F/7600/7800X3D modelleri için kusursuz soğutmalı DDR5 anakart."
+  },
+  {
+    "id": "mb_x670e_plus",
+    "category": "MOTHERBOARD",
+    "brand": "ASUS",
+    "modelOrSpecs": "TUF GAMING X670E-PLUS WIFI",
+    "priceUsd": 325.0,
+    "tdpWatts": 0,
+    "socket": "AM5",
+    "ramType": "DDR5",
+    "details": "2023 PCIe 5.0 ekran kartı ve NVMe desteği sunan, aşırı dayanıklı canavar."
+  },
+  {
+    "id": "mb_z890_hero",
+    "category": "MOTHERBOARD",
+    "brand": "ASUS",
+    "modelOrSpecs": "ROG MAXIMUS Z890 HERO",
+    "priceUsd": 599.0,
+    "tdpWatts": 0,
+    "socket": "LGA1851",
+    "ramType": "DDR5",
+    "details": "2025 Intel Core Ultra (Arrow Lake) işlemciler için son teknoloji Thunderbolt 4 anakart."
+  }
+]

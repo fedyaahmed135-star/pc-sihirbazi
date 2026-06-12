@@ -1,0 +1,29 @@
+[
+  {
+    "id": "cs_creme_vintage",
+    "category": "CASE",
+    "brand": "Genel Beyaz",
+    "modelOrSpecs": "Retro Çelik Ofis Kasası (Krem Rengi)",
+    "priceUsd": 15.0,
+    "tdpWatts": 0,
+    "details": "2000'lerin efsane, sararan, cd-rom sürücülü sağlam sac bilgisayar kasası."
+  },
+  {
+    "id": "cs_corsair_4000d",
+    "category": "CASE",
+    "brand": "Corsair",
+    "modelOrSpecs": "4000D Airflow (Siyah/Beyaz)",
+    "priceUsd": 95.0,
+    "tdpWatts": 0,
+    "details": "Önü mesh ızgaralı, tozu engelleyen, temperli camlı modern hava akış kasası."
+  },
+  {
+    "id": "cs_lian_li_o11",
+    "category": "CASE",
+    "brand": "Lian Li",
+    "modelOrSpecs": "O11 Dynamic EVO (Akvaryum Kasa)",
+    "priceUsd": 169.0,
+    "tdpWatts": 0,
+    "details": "Çift odacıklı, her yeri cam, sistemini sergilemek isteyenlerin rüyası akvaryum tasarımı."
+  }
+]

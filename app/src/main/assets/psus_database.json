@@ -1,0 +1,38 @@
+[
+  {
+    "id": "psu_frisby_400",
+    "category": "PSU",
+    "brand": "Frisby",
+    "modelOrSpecs": "400W Standart Ofis PSU",
+    "priceUsd": 25.0,
+    "tdpWatts": 0,
+    "details": "Korunmasız, 2005-2012 arası hazır kasalarda gelen standart güç kaynağı."
+  },
+  {
+    "id": "psu_high_power_500",
+    "category": "PSU",
+    "brand": "High Power",
+    "modelOrSpecs": "Eco 500W 85+",
+    "priceUsd": 45.0,
+    "tdpWatts": 0,
+    "details": "Aktif PFC korumalı, Türkiye'de bütçe oyun kasalarının popüler güç kaynağı."
+  },
+  {
+    "id": "psu_msi_a650bn",
+    "category": "PSU",
+    "brand": "MSI",
+    "modelOrSpecs": "MAG A650BN 650W 80+ Bronze",
+    "priceUsd": 65.0,
+    "tdpWatts": 0,
+    "details": "2023-2025 Güvenilir koruma devreli (OVP, OPP, SCP) en popüler 650W PSU."
+  },
+  {
+    "id": "psu_corsair_rm750e",
+    "category": "PSU",
+    "brand": "Corsair",
+    "modelOrSpecs": "RM750e 750W 80+ Gold ATX 3.0",
+    "priceUsd": 105.0,
+    "tdpWatts": 0,
+    "details": "Yeni nesil 12VHPWR (RTX 40 ve 50 serisi) kablosu uyumlu, tam modüler sessiz ATX 3.0 canavarı."
+  }
+]

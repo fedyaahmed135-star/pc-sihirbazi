@@ -1,0 +1,641 @@
+[
+  {
+    "id": "gpu_6600_gt",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce 6600 GT",
+    "priceUsd": 199.0,
+    "tdpWatts": 47,
+    "details": "2005 Efsanevi F/P AGP/PCIe kartı, 128MB GDDR3, Doom 3 oynatıcısı."
+  },
+  {
+    "id": "gpu_7800_gtx",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce 7800 GTX",
+    "priceUsd": 499.0,
+    "tdpWatts": 86,
+    "details": "2005 Dönemin en hızlı amirali, 256MB VRAM."
+  },
+  {
+    "id": "gpu_8800_gt",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce 8800 GT",
+    "priceUsd": 249.0,
+    "tdpWatts": 105,
+    "details": "2007 Tüm zamanların en büyük fiyat/performans efsanesi, 512MB G92 çipi."
+  },
+  {
+    "id": "gpu_8800_gtx",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce 8800 GTX",
+    "priceUsd": 599.0,
+    "tdpWatts": 155,
+    "details": "2006 Crysis'i akıcı açabilen efsanevi ilk birleşik gölgelendirici mimarili kart, 768MB."
+  },
+  {
+    "id": "gpu_9600_gt",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce 9600 GT",
+    "priceUsd": 169.0,
+    "tdpWatts": 95,
+    "details": "2008 512MB VRAM, geniş 256-bit veriyolu ile uygun fiyatlı oyun kralı."
+  },
+  {
+    "id": "gpu_9800_gt",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce 9800 GT",
+    "priceUsd": 150.0,
+    "tdpWatts": 105,
+    "details": "2008 8800 GT'nin gelişmiş 55nm versiyonu, unutulmaz LAN party kartı."
+  },
+  {
+    "id": "gpu_gtx_260",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 260",
+    "priceUsd": 299.0,
+    "tdpWatts": 182,
+    "details": "2008 Fermi öncesi 896MB GDDR3, 448-bit geniş bellek veriyolu."
+  },
+  {
+    "id": "gpu_gtx_285",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 285",
+    "priceUsd": 399.0,
+    "tdpWatts": 204,
+    "details": "2009 512-bit canavarı, tek GPU'lu dönemin en güçlü NVIDIA kartı, 1GB."
+  },
+  {
+    "id": "gpu_hd_2900_xt",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "ATI Radeon HD 2900 XT",
+    "priceUsd": 399.0,
+    "tdpWatts": 215,
+    "details": "2007 ATI'nin ilk DirectX 10 uyumlu 512-bit devasa fakat sıcak çalışan kartı."
+  },
+  {
+    "id": "gpu_hd_3870",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "ATI Radeon HD 3870",
+    "priceUsd": 219.0,
+    "tdpWatts": 106,
+    "details": "2007 55nm RV670 çipi, ATI'nin F/P bazında 8800 GT'ye cevabı."
+  },
+  {
+    "id": "gpu_hd_4870",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "ATI Radeon HD 4870",
+    "priceUsd": 299.0,
+    "tdpWatts": 150,
+    "details": "2008 Dünyada ilk GDDR5 bellek kullanan ezber bozan AMD kartı, 512MB."
+  },
+  {
+    "id": "gpu_hd_5870",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "ATI Radeon HD 5870",
+    "priceUsd": 379.0,
+    "tdpWatts": 188,
+    "details": "2009 Cypress XT çipi, ilk DirectX 11 performans canavarı, 1GB."
+  },
+  {
+    "id": "gpu_hd_6970",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon HD 6970",
+    "priceUsd": 369.0,
+    "tdpWatts": 250,
+    "details": "2010 Cayman XT mimarili, 2GB VRAM barındıran üst seviye AMD kartı."
+  },
+  {
+    "id": "gpu_gtx_460",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 460 1GB",
+    "priceUsd": 229.0,
+    "tdpWatts": 160,
+    "details": "2010 GF104 kırpılmış Fermi çipi, yüksek hızaşırtma şampiyonu."
+  },
+  {
+    "id": "gpu_gtx_480",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 480",
+    "priceUsd": 499.0,
+    "tdpWatts": 250,
+    "details": "2010 'Thermite' kod adlı soba, aşırı güç çeken ama çok hızlı Fermi lideri."
+  },
+  {
+    "id": "gpu_gtx_560_ti",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 560 Ti",
+    "priceUsd": 249.0,
+    "tdpWatts": 170,
+    "details": "2011 Ti efsanesini geri getiren, 1GB GDDR5 efsane oyuncu kartı."
+  },
+  {
+    "id": "gpu_gtx_580",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 580",
+    "priceUsd": 499.0,
+    "tdpWatts": 244,
+    "details": "2011 Fermi mimarisinin tam sürümü, 1.5GB VRAM ile dönemin en kararlısı."
+  },
+  {
+    "id": "gpu_hd_7970",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon HD 7970",
+    "priceUsd": 549.0,
+    "tdpWatts": 250,
+    "details": "2012 3GB VRAM, GCN mimarili ilk 28nm ekran kartı. Yıllarca eskimeyen efsane."
+  },
+  {
+    "id": "gpu_gtx_660",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 660",
+    "priceUsd": 229.0,
+    "tdpWatts": 140,
+    "details": "2012 Kepler GK106 çipi, 2GB VRAM ile uzun yıllar popüler kalan bütçe kartı."
+  },
+  {
+    "id": "gpu_gtx_680",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 680",
+    "priceUsd": 499.0,
+    "tdpWatts": 195,
+    "details": "2012 Kepler mimarili, düşük güç tüketimiyle HD 7970'i tahtından eden kart."
+  },
+  {
+    "id": "gpu_gtx_750_ti",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 750 Ti",
+    "priceUsd": 149.0,
+    "tdpWatts": 60,
+    "details": "2014 Maxwell GM107 mimarili, ek güç bağlantısı istemeyen efsanevi F/P kartı."
+  },
+  {
+    "id": "gpu_gtx_760",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 760",
+    "priceUsd": 249.0,
+    "tdpWatts": 170,
+    "details": "2013 2GB GDDR5, 256-bit orta segment vazgeçilmezi."
+  },
+  {
+    "id": "gpu_gtx_770",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 770",
+    "priceUsd": 399.0,
+    "tdpWatts": 230,
+    "details": "2013 GTX 680'in geliştirilmiş ve daha hızlı bellekli versiyonu."
+  },
+  {
+    "id": "gpu_gtx_780_ti",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 780 Ti",
+    "priceUsd": 699.0,
+    "tdpWatts": 250,
+    "details": "2013 Kepler GK110 tam kilitsiz çip, dönemin mutlak oyun şampiyonu."
+  },
+  {
+    "id": "gpu_r9_280x",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon R9 280X",
+    "priceUsd": 299.0,
+    "tdpWatts": 250,
+    "details": "2013 HD 7970 GHz Edition'ın adlandırılmış ve ucuzlatılmış 3GB versiyonu."
+  },
+  {
+    "id": "gpu_r9_290x",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon R9 290X",
+    "priceUsd": 399.0,
+    "tdpWatts": 275,
+    "details": "2013 Hawaii XT çipi, 4GB, 512-bit, referans tasarımı 95 derecede çalışan canavar."
+  },
+  {
+    "id": "gpu_gtx_960",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 960",
+    "priceUsd": 199.0,
+    "tdpWatts": 120,
+    "details": "256-bit yerine 128-bit veri yollu ama çok verimli 2GB/4GB Maxwell kartı."
+  },
+  {
+    "id": "gpu_gtx_970",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 970",
+    "priceUsd": 329.0,
+    "tdpWatts": 145,
+    "details": "2014 Efsanevi 3.5GB + 0.5GB yavaş bölmeli bellekli ama muazzam popüler Maxwell hiti."
+  },
+  {
+    "id": "gpu_gtx_980",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 980",
+    "priceUsd": 549.0,
+    "tdpWatts": 165,
+    "details": "2014 Tam Maxwell GM204 çipi, 4GB VRAM ile sessiz ve verimli canavar."
+  },
+  {
+    "id": "gpu_r9_380",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon R9 380",
+    "priceUsd": 229.0,
+    "tdpWatts": 190,
+    "details": "2015 Antigua PRO çipi, 4GB VRAM, GTX 960'ın performanslı AMD rakibi."
+  },
+  {
+    "id": "gpu_r9_390x",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon R9 390X",
+    "priceUsd": 429.0,
+    "tdpWatts": 275,
+    "details": "2015 8GB devasa VRAM, Grenada XT çipi, yüksek güç tüketimli."
+  },
+  {
+    "id": "gpu_gtx_1050_ti",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 1050 Ti",
+    "priceUsd": 139.0,
+    "tdpWatts": 75,
+    "details": "2016 Pascal mimarili, yıllarca internet kafelerin ve e-sporcuların vazgeçilmezi olan 4GB."
+  },
+  {
+    "id": "gpu_gtx_1060_6gb",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 1060 6GB",
+    "priceUsd": 249.0,
+    "tdpWatts": 120,
+    "details": "2016 Steam istatistiklerinde tam 5 yıl boyunca birinci kalan efsanevi 1080p oyun kartı."
+  },
+  {
+    "id": "gpu_gtx_1070",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 1070",
+    "priceUsd": 379.0,
+    "tdpWatts": 150,
+    "details": "2016 Pascal mimarili 8GB GDDR5, 2K çözünürlüğün ilk gerçek f/p öncüsü."
+  },
+  {
+    "id": "gpu_gtx_1080",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 1080",
+    "priceUsd": 599.0,
+    "tdpWatts": 180,
+    "details": "2016 Pascal amirali, 8GB GDDR5X, döneminde rakiplerine toz yutturan güç."
+  },
+  {
+    "id": "gpu_gtx_1080_ti",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 1080 Ti",
+    "priceUsd": 699.0,
+    "tdpWatts": 250,
+    "details": "2017 Tarihin en uzun ömürlü ve en başarılı amiral gemisi oyuncu kartı, 11GB VRAM!"
+  },
+  {
+    "id": "gpu_rx_470",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 470 4GB",
+    "priceUsd": 179.0,
+    "tdpWatts": 120,
+    "details": "2016 Fiyat/performans oranı çok yüksek Polaris mimarili bütçe dostu."
+  },
+  {
+    "id": "gpu_rx_480",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 480 8GB",
+    "priceUsd": 239.0,
+    "tdpWatts": 150,
+    "details": "2016 Fiyatına göre 8GB VRAM sunarak büyük satış başarısı yakalayan Polaris."
+  },
+  {
+    "id": "gpu_rx_570",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 570 4GB/8GB",
+    "priceUsd": 169.0,
+    "tdpWatts": 150,
+    "details": "2017 Overclocklu Polaris yenilemesi, ülkemizde efsaneleşen F/P kartı."
+  },
+  {
+    "id": "gpu_rx_580",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 580 8GB",
+    "priceUsd": 229.0,
+    "tdpWatts": 185,
+    "details": "2017 Madencilik furyasının ve 1080p Ultra oyunculuğun vazgeçilmez kraliçesi."
+  },
+  {
+    "id": "gpu_gtx_1650_super",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 1650 Super",
+    "priceUsd": 159.0,
+    "tdpWatts": 100,
+    "details": "2019 GDDR6 bellekli, düşük güç tüketen mükemmel sessiz 1080p kartı."
+  },
+  {
+    "id": "gpu_gtx_1660_super",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce GTX 1660 Super",
+    "priceUsd": 229.0,
+    "tdpWatts": 125,
+    "details": "2019 Işın izlemesiz saf güç performansı ile tam bir Türkiye F/P hiti, 6GB."
+  },
+  {
+    "id": "gpu_rtx_2060",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 2060 6GB",
+    "priceUsd": 349.0,
+    "tdpWatts": 160,
+    "details": "2019 Turing mimarili, ilk kararlı yapay zeka ve Ray Tracing (DLSS 1.0) kartı."
+  },
+  {
+    "id": "gpu_rtx_2070",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 2070",
+    "priceUsd": 499.0,
+    "tdpWatts": 175,
+    "details": "2018 8GB VRAM ile 2K Ray Tracing oyunculuğun ilk adımı."
+  },
+  {
+    "id": "gpu_rtx_2080_ti",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 2080 Ti",
+    "priceUsd": 1199.0,
+    "tdpWatts": 250,
+    "details": "2018 Turing amiral gemisi, 11GB GDDR6, yapay zeka donanımlı ilk GPU serisi."
+  },
+  {
+    "id": "gpu_rx_5600_xt",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 5600 XT",
+    "priceUsd": 279.0,
+    "tdpWatts": 150,
+    "details": "2020 RDNA1 mimarili, son dakika BIOS güncellemesiyle RTX 2060'ı ezen 6GB."
+  },
+  {
+    "id": "gpu_rx_5700_xt",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 5700 XT",
+    "priceUsd": 399.0,
+    "tdpWatts": 225,
+    "details": "2019 RDNA Mimarili AMD amiral gemisi, saf grafikte harika güç."
+  },
+  {
+    "id": "gpu_rtx_3050",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 3050 8GB",
+    "priceUsd": 249.0,
+    "tdpWatts": 130,
+    "details": "2022 DLSS ve RTX özelliklerini en dip bütçeye getiren Ampere model."
+  },
+  {
+    "id": "gpu_rtx_3060",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 3060 12GB",
+    "priceUsd": 329.0,
+    "tdpWatts": 170,
+    "details": "2021 Ampere mimarili, 12GB devasa VRAM'i sayesinde günümüzde dahi popüler."
+  },
+  {
+    "id": "gpu_rtx_3060_ti",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 3060 Ti",
+    "priceUsd": 399.0,
+    "tdpWatts": 200,
+    "details": "2020 RTX 2080 Super seviyesinde oyun oynatan muazzam başarılı f/p modeli."
+  },
+  {
+    "id": "gpu_rtx_3070",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 3070",
+    "priceUsd": 499.0,
+    "tdpWatts": 220,
+    "details": "2020 8GB VRAM ile 1440p (2K) her oyunu akıcı açan Ampere hiti."
+  },
+  {
+    "id": "gpu_rtx_3080",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 3080 10GB",
+    "priceUsd": 699.0,
+    "tdpWatts": 320,
+    "details": "2020 Gerçek 4K 60FPS oyunculuğu başlatan GDDR6X süper hızlı canavar."
+  },
+  {
+    "id": "gpu_rtx_3090",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 3090",
+    "priceUsd": 1499.0,
+    "tdpWatts": 350,
+    "details": "2020 24GB devasa GDDR6X bellekli amiral gemisi, render ve yapay zeka öncüsü."
+  },
+  {
+    "id": "gpu_rx_6600",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 6600",
+    "priceUsd": 329.0,
+    "tdpWatts": 132,
+    "details": "2021 Isınmayan, aşırı az güç çeken ve F/P bazında 1080p'nin en sevilen kartı."
+  },
+  {
+    "id": "gpu_rx_6700_xt",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 6700 XT",
+    "priceUsd": 479.0,
+    "tdpWatts": 230,
+    "details": "2021 RDNA2 mimarili, 12GB VRAM barındıran uzun ömürlü oyun şampiyonu."
+  },
+  {
+    "id": "gpu_rx_6800_xt",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 6800 XT",
+    "priceUsd": 649.0,
+    "tdpWatts": 300,
+    "details": "2020 RDNA2 16GB VRAM, RTX 3080'e rakip olan muhteşem AMD cevabı."
+  },
+  {
+    "id": "gpu_rx_7600",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 7600",
+    "priceUsd": 269.0,
+    "tdpWatts": 165,
+    "details": "2023 Uygun fiyatlı yeni nesil AV1 kodlama destekli AMD kartı, 8GB."
+  },
+  {
+    "id": "gpu_rx_7700_xt",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 7700 XT",
+    "priceUsd": 449.0,
+    "tdpWatts": 245,
+    "details": "2023 12GB, 1440p çözünürlükte yeni nesil F/P seçeneği."
+  },
+  {
+    "id": "gpu_rx_7800_xt",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 7800 XT",
+    "priceUsd": 499.0,
+    "tdpWatts": 263,
+    "details": "2023 16GB VRAM, 256-bit bant genişliği ile RTX 4070'in en büyük kabusu."
+  },
+  {
+    "id": "gpu_rx_7900_xtx",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 7900 XTX",
+    "priceUsd": 999.0,
+    "tdpWatts": 355,
+    "details": "2022 RDNA3 mimarili, 24GB VRAM barındıran en tepe AMD ekran kartı."
+  },
+  {
+    "id": "gpu_rtx_4050",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 4050",
+    "priceUsd": 199.0,
+    "tdpWatts": 95,
+    "details": "2023 Ada Lovelace bütçe dostu, DLSS 3 Frame Gen destekli mobil/OEM kart."
+  },
+  {
+    "id": "gpu_rtx_4060",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 4060 8GB",
+    "priceUsd": 299.0,
+    "tdpWatts": 115,
+    "details": "2023 Ada Lovelace mimarisi, DLSS 3.0 ve sadece 115W güç tüketimiyle verimlilik şahı."
+  },
+  {
+    "id": "gpu_rtx_4060_ti",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 4060 Ti 16GB",
+    "priceUsd": 449.0,
+    "tdpWatts": 165,
+    "details": "2023 16GB VRAM güncellemesi alan, yapay zeka üreticileri için ideal kart."
+  },
+  {
+    "id": "gpu_rtx_4070",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 4070 12GB",
+    "priceUsd": 549.0,
+    "tdpWatts": 200,
+    "details": "2023 12GB VRAM, 1440p (2K) akıcı oyun canavarı."
+  },
+  {
+    "id": "gpu_rtx_4070_super",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 4070 Super",
+    "priceUsd": 599.0,
+    "tdpWatts": 220,
+    "details": "2024 Ada Lovelace yenilemeli en mantıklı F/P kartı, RTX 4070'ten %15 daha hızlı."
+  },
+  {
+    "id": "gpu_rtx_4080_super",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 4080 Super",
+    "priceUsd": 999.0,
+    "tdpWatts": 320,
+    "details": "2024 Fiyatı 1200$'dan 1000$'a çekilen tam kırpılmamış 4K performans kralı, 16GB."
+  },
+  {
+    "id": "gpu_rtx_4090",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 4090",
+    "priceUsd": 1599.0,
+    "tdpWatts": 450,
+    "details": "2022 Sınırları zorlayan, 24GB GDDR6X, tarihin en ikonik ve en güçlü ekran kartı."
+  },
+  {
+    "id": "gpu_rtx_5070",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 5070 12GB",
+    "priceUsd": 649.0,
+    "tdpWatts": 220,
+    "details": "2025 Blackwell yeni mimari, ultra hızlı GDDR7 bellek ve DLSS 4 teknolojisi."
+  },
+  {
+    "id": "gpu_rtx_5080",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 5080",
+    "priceUsd": 1199.0,
+    "tdpWatts": 350,
+    "details": "2025 16GB GDDR7, Blackwell mimarisi ile muazzam bant genişliği."
+  },
+  {
+    "id": "gpu_rtx_5090",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "modelOrSpecs": "GeForce RTX 5090",
+    "priceUsd": 1999.0,
+    "tdpWatts": 600,
+    "details": "2025 Blackwell mimarisi, 32GB GDDR7, 512-bit veriyolu ile tarihin en pahalı güç canavarı."
+  },
+  {
+    "id": "gpu_rx_8800_xt",
+    "category": "GPU",
+    "brand": "AMD",
+    "modelOrSpecs": "Radeon RX 8800 XT",
+    "priceUsd": 499.0,
+    "tdpWatts": 240,
+    "details": "2025 RDNA4 fiyat/performans şampiyonu, 16GB, müthiş Ray Tracing geliştirmeleri."
+  }
+]

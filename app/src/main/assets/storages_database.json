@@ -1,0 +1,38 @@
+[
+  {
+    "id": "st_wd_blue",
+    "category": "STORAGE",
+    "brand": "Western Digital",
+    "modelOrSpecs": "Caviar Blue 160GB-500GB HDD",
+    "priceUsd": 25.0,
+    "tdpWatts": 7,
+    "details": "2006-2012 Mekanik sabit disklerin en güvenilir depolama kahramanı."
+  },
+  {
+    "id": "st_samsung_870_evo",
+    "category": "STORAGE",
+    "brand": "Samsung",
+    "modelOrSpecs": "870 EVO SATA III 500GB",
+    "priceUsd": 45.0,
+    "tdpWatts": 4,
+    "details": "Eski bilgisayarları uçuran, SATA sınırlarını zorlayan 560/530 MB/s SSD."
+  },
+  {
+    "id": "st_kingston_nv2",
+    "category": "STORAGE",
+    "brand": "Kingston",
+    "modelOrSpecs": "NV2 PCIe 4.0 NVMe M.2 1TB",
+    "priceUsd": 60.0,
+    "tdpWatts": 5,
+    "details": "2023-2025 Fiyatıyla ve 3500MB/s okuma hızıyla en çok satılan NVMe SSD."
+  },
+  {
+    "id": "st_samsung_990_pro",
+    "category": "STORAGE",
+    "brand": "Samsung",
+    "modelOrSpecs": "990 PRO NVMe M.2 SSD 1TB/2TB",
+    "priceUsd": 110.0,
+    "tdpWatts": 6,
+    "details": "7450 MB/s olağanüstü hıza ve DRAM önbelleğine sahip profesyonel PCIe 4.0 SSD."
+  }
+]

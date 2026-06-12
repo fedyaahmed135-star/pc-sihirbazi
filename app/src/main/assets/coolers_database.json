@@ -1,0 +1,31 @@
+[
+  {
+    "id": "col_intel_stock",
+    "category": "COOLER",
+    "brand": "Intel",
+    "modelOrSpecs": "Kutu Dahili Alüminyum Fan",
+    "priceUsd": 5.0,
+    "tdpWatts": 3,
+    "details": "İşlemci kutularından çıkan, basit ofis kullanımlık soğutucu çıt çıt fan."
+  },
+  {
+    "id": "col_peerless_assassin",
+    "category": "COOLER",
+    "brand": "Thermalright",
+    "modelOrSpecs": "Peerless Assassin 120 SE",
+    "priceUsd": 42.0,
+    "tdpWatts": 5,
+    "socket": "AM5/LGA1700/AM4",
+    "details": "Çift kuleli devasa soğutucu, sıvı soğutmalarla yarışan F/P şampiyonu."
+  },
+  {
+    "id": "col_deepcool_lt720",
+    "category": "COOLER",
+    "brand": "DeepCool",
+    "modelOrSpecs": "LT720 360mm Premium Sıvı Soğutucu",
+    "priceUsd": 125.0,
+    "tdpWatts": 8,
+    "socket": "AM5/LGA1700/AM4",
+    "details": "i9-14900K ve Ryzen 9950X işlemcileri dahi buz gibi yapan 3 fanlı 360mm radyatör."
+  }
+]

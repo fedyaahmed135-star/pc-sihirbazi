@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ram_ddr2_2gb",
+    "category": "RAM",
+    "brand": "Kingston",
+    "modelOrSpecs": "ValueRAM 2GB DDR2 800MHz",
+    "priceUsd": 15.0,
+    "tdpWatts": 3,
+    "ramType": "DDR2",
+    "details": "2007 Tüm zamanların en çok satılan kararlı DDR2 RAM modülü."
+  },
+  {
+    "id": "ram_ddr3_4gb",
+    "category": "RAM",
+    "brand": "Kingston",
+    "modelOrSpecs": "HyperX Genesis 4GB DDR3 1600MHz",
+    "priceUsd": 25.0,
+    "tdpWatts": 4,
+    "ramType": "DDR3",
+    "details": "2012 Mavi metal soğutuculu, düşük gecikmeli DDR3 bellek."
+  },
+  {
+    "id": "ram_ddr4_16gb",
+    "category": "RAM",
+    "brand": "G.Skill",
+    "modelOrSpecs": "Ripjaws V 16GB (2x8GB) 3200MHz CL16",
+    "priceUsd": 45.0,
+    "tdpWatts": 4,
+    "ramType": "DDR4",
+    "details": "2018-2024 Siyah şık soğutuculu, Ryzen işlemcilerle tam uyumlu çift kanal kit."
+  },
+  {
+    "id": "ram_ddr5_32gb_vengeance",
+    "category": "RAM",
+    "brand": "Corsair",
+    "modelOrSpecs": "Vengeance 32GB (2x16GB) 6000MHz CL30 EXPO",
+    "priceUsd": 115.0,
+    "tdpWatts": 5,
+    "ramType": "DDR5",
+    "details": "2023 Ryzen 7000/9000 için altın standart sayılan en stabil düşük gecikmeli DDR5."
+  },
+  {
+    "id": "ram_ddr5_rgb_gskill",
+    "category": "RAM",
+    "brand": "G.Skill",
+    "modelOrSpecs": "Trident Z5 Neo RGB 32GB (2x16GB) 6400MHz CL32",
+    "priceUsd": 139.0,
+    "tdpWatts": 6,
+    "ramType": "DDR5",
+    "details": "2024 Ultra kaliteli çiplerle donatılmış hız aşırtmaya en uygun RGB DDR5 bellek."
+  }
+]
